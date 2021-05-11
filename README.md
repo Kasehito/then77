@@ -2,6 +2,10 @@ The N
 ================
 
 ### 👋🏻 Welcome To My Github!
+  **This Is My Public Github Profile**
+  - Find Me On Discord _The 𝗡#3140_
+### Dont Forget To Join Our Server :
+  - [Discord Server] (https://discord.com/invite/m8R7Cw2Dg6)
 <!--
 **then77/then77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
