@@ -4,9 +4,9 @@ The N
 ### 👋🏻 Welcome To My Github!
   **This Is My Public Github Profile**
   - Im Exceprienced At HTML, CSS, C++, And Python
-  - You Can Find Me On Discord _The 𝗡#3140_
+  - You Can Find Me On Discord _Real N#5677_
   - Im Not Actively Online, But You Can Ask Me If You Want
 
-  **Unfornately, An Accident Happened To My Discord Account And I Cant Login Back :c**
-### Dont Forget To Join Our Server :
-  - [Discord Server](https://discord.com/invite/m8R7Cw2Dg6)
+  **Unfornately, An Accident Happened To My Old Discord Account And I Cant Login Back :c**
+### Dont Forget To Join This Great Server :
+  - [Lexus](https://discord.com/invite/m8R7Cw2Dg6)
