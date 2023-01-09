@@ -4,11 +4,15 @@
 <h2 align="center">👋🏻 Welcome To My Github!</h2>
 
 <p align="center">I am a developer from Indonesia. I do coding sometimes and upload it to my repos. You can always see them in my repositories.</p>
+<p align="center"><img src="https://komarev.com/ghpvc/?username=then77&color=green" alt="Profile views"></p>
 
 <h2 align="center">☎️ Contact</h2>
 <p align="center">
   <a href="https://discord.com/users/962658658070704148">
-    <img src="https://img.icons8.com/sf-black-filled/128/ffffff/discord.png" width="48" height="48"/>
+    <img src="https://img.icons8.com/sf-black-filled/128/818cf8/discord.png" width="48" height="48"/>
+  </a>
+  <a href="mailto:hello@therealzzy.xyz">
+    <img src="https://img.icons8.com/3d-fluency/188/null/gmail.png" width="48" height="48"/>
   </a>
 </p>
 
