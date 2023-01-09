@@ -32,4 +32,4 @@
 </p>
 
 <h2 align="center">📊 My Stats</h1>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=then77&show_icons=true&theme=blue-green)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=then77&show_icons=true&theme=blue-green&custom_title=My%20Github%20Stats!">
