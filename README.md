@@ -2,8 +2,9 @@
 <h2></h2>
 
 <h2 align="center">👋🏻 Welcome To My Github!</h2>
-
-<p align="center">I am a developer from Indonesia. I do coding sometimes and maintain my currently active repo, <a href="https://github.com/then77/pulsalapak-automate">Pulsalapak Automate</a>. Also, you can always see them in my repositories.</p>
+<p align="center">I am a developer from Indonesia! <img src="https://img.icons8.com/color/64/null/indonesia-circular.png" width="12" height="12" /></p>
+<p align="center">I do coding sometimes and maintain my currently active repo, <a href="https://github.com/then77/pulsalapak-automate">Pulsalapak Automate</a>.</p>
+<p align="center">Also, you can always see them in my repositories.</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=then77&color=green" alt="Profile views">
   <a href="https://github.com/then77?tab=followers"><img src="https://img.shields.io/github/followers/then77.svg?style=social&label=Follow%20Me" alt="Follow me!">
@@ -31,7 +32,6 @@
   <img align="center" src="https://progress-bar.dev/85?title=Javascript" />
   <img align="center" src="https://progress-bar.dev/75?title=PHP" />
   <img align="center" src="https://progress-bar.dev/50?title=Java" />
-  <img align="center" src="https://progress-bar.dev/40?title=C%2B%2B" />
 </p>
 
 <h2 align="center">📊 My Stats</h1>
