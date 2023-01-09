@@ -3,7 +3,7 @@
 
 <h2 align="center">👋🏻 Welcome To My Github!</h2>
 
-<p align="center">I am a developer from Indonesia. I do coding sometimes and upload it to my repos. You can always see them in my repositories.</p>
+<p align="center">I am a developer from Indonesia. I do coding sometimes and maintain my currently active repo, <a href="https://github.com/then77/pulsalapak-automate">Pulsalapak Automate</a>. Also, you can always see them in my repositories.</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=then77&color=green" alt="Profile views">
   <a href="https://github.com/then77?tab=followers"><img src="https://img.shields.io/github/followers/then77.svg?style=social&label=Follow%20Me" alt="Follow me!">
