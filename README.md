@@ -25,14 +25,12 @@
 
 <p align="center">Here are some programming languages that I have mastered:</p>
 
-<p align="center">
-  <img align="center" src="https://progress-bar.dev/98?title=HTML5" />
-  <img align="center" src="https://progress-bar.dev/95?title=CSS" />
+<p align="center" width="100%">
+  <img align="center" src="https://progress-bar.dev/98?title=HTML%20CSS%20" />
   <img align="center" src="https://progress-bar.dev/95?title=Python" />
-  <img align="center" src="https://progress-bar.dev/90?title=JS" />
-  <img align="center" src="https://progress-bar.dev/75?title=PHP" />
+  <img align="center" src="https://progress-bar.dev/92?title=JS" />
+  <img align="center" src="https://progress-bar.dev/80?title=PHP" />
   <img align="center" src="https://progress-bar.dev/50?title=Java" />
-  <img align="center" src="https://progress-bar.dev/45?title=C%2B%2B" />
 </p>
 
 <h2 align="center">📊 My Stats</h1>
