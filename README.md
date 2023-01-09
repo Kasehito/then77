@@ -29,9 +29,10 @@
   <img align="center" src="https://progress-bar.dev/98?title=HTML5" />
   <img align="center" src="https://progress-bar.dev/95?title=CSS" />
   <img align="center" src="https://progress-bar.dev/95?title=Python" />
-  <img align="center" src="https://progress-bar.dev/85?title=Javascript" />
+  <img align="center" src="https://progress-bar.dev/90?title=JS" />
   <img align="center" src="https://progress-bar.dev/75?title=PHP" />
   <img align="center" src="https://progress-bar.dev/50?title=Java" />
+  <img align="center" src="https://progress-bar.dev/45?title=C%2B%2B" />
 </p>
 
 <h2 align="center">📊 My Stats</h1>
