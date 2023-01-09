@@ -30,3 +30,6 @@
   <img align="center" src="https://progress-bar.dev/50?title=Java" />
   <img align="center" src="https://progress-bar.dev/40?title=C%2B%2B" />
 </p>
+
+<h2 align="center">📊 My Stats</h1>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=then77&show_icons=true&theme=blue-green)
