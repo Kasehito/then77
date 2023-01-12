@@ -35,5 +35,5 @@
 
 <h2 align="center">📊 My Stats</h1>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=then77&show_icons=true&theme=blue-green&custom_title=My%20Github%20Stats!">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=then77&show_icons=true&theme=blue-green&custom_title=My%20Github%20Stats!">
 </p>
