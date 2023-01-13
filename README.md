@@ -23,17 +23,13 @@
 
 <h2 align="center">💻 Languages</h2>
 
-<p align="center">Here are some programming languages that I have mastered:</p>
+<p align="center">Here are some programming languages that I have used most:</p>
 
-<p align="center" width="100%">
-  <img align="center" src="https://progress-bar.dev/98?title=HTML%20CSS%20" />
-  <img align="center" src="https://progress-bar.dev/95?title=Python" />
-  <img align="center" src="https://progress-bar.dev/92?title=JS" />
-  <img align="center" src="https://progress-bar.dev/80?title=PHP" />
-  <img align="center" src="https://progress-bar.dev/50?title=Java" />
+<p align="center">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=then77&show_icons=true&theme=blue-green&count_private=true&hide_title=true">
 </p>
 
 <h2 align="center">📊 My Stats</h1>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=then77&show_icons=true&theme=blue-green&custom_title=My%20Github%20Stats!">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=then77&show_icons=true&theme=blue-green&hide=issues&custom_title=My%20Github%20Stats!">
 </p>
