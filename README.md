@@ -3,7 +3,7 @@
 
 <h2 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=500&size=30&duration=3000&pause=1000&center=true&width=435&lines=Hello+there!+%F0%9F%91%8B;My+name+is+Realzzy!+%F0%9F%98%8E;Welcome+to+my+github!+%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB" alt="Welcome to my github"></h2>
 <p align="center">I am a developer from Indonesia! <img src="https://img.icons8.com/color/64/null/indonesia-circular.png" width="12" height="12" /></p>
-<p align="center">I do coding sometimes and maintain my currently active repo, <a href="https://github.com/then77/pulsalapak-automate">Pulsalapak Automate</a>.</p>
+<p align="center">I do coding sometimes and maintain all my active repo.</p>
 <p align="center">Also, you can always see them in my repositories.</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=then77&color=green" alt="Profile views">
