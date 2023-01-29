@@ -26,7 +26,7 @@
 <p align="center">Here are some programming languages that I have used most:</p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=then77&show_icons=true&theme=blue-green&count_private=true&hide_title=true">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=then77&hide=markdown,yaml,json&show_icons=true&theme=blue-green&count_private=true&hide_title=true">
 </p>
 
 <h2 align="center">📊 My Stats</h2>
