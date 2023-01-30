@@ -34,8 +34,6 @@
   <img src="https://img.shields.io/badge/Java-0e2345?logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/PHP-0e2345?logo=PHP&logoColor=white">
   <img src="https://img.shields.io/badge/C%2B%2B-0e2345?logo=C%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/Tailwind-0e2345?logo=Tailwind&logoColor=white">
-  <img src="https://img.shields.io/badge/React-0e2345?logo=React&logoColor=white">
 </p>
 
 <h2 align="center">📊 My Stats</h2>
