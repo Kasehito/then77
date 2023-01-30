@@ -26,10 +26,20 @@
 <p align="center">Here are some programming languages that I have used most:</p>
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=then77&hide=markdown,yaml,json&show_icons=true&theme=blue-green&count_private=true&hide_title=true">
+  <img src="https://img.shields.io/badge/HTML%205-0e2345?logo=Html5&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS-0e2345?logo=CSS3&logoColor=white">
+  <img src="https://img.shields.io/badge/Javascript-0e2345?logo=Javascript&logoColor=white">
+  <img src="https://img.shields.io/badge/Typescript-0e2345?logo=Typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-0e2345?logo=Python&logoColor=white">
+  <img src="https://img.shields.io/badge/Java-0e2345?logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-0e2345?logo=PHP&logoColor=white">
+  <img src="https://img.shields.io/badge/C%2B%2B-0e2345?logo=C%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/Tailwind-0e2345?logo=Tailwind&logoColor=white">
+  <img src="https://img.shields.io/badge/React-0e2345?logo=React&logoColor=white">
 </p>
 
 <h2 align="center">📊 My Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=then77&show_icons=true&theme=blue-green&hide=issues&custom_title=My%20Github%20Stats!">
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=then77&hide=markdown,yaml,json&show_icons=true&theme=blue-green&count_private=true&hide_title=true">
 </p>
