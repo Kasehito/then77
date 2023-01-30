@@ -38,6 +38,6 @@
 
 <h2 align="center">📊 My Stats</h2>
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=then77&show_icons=true&theme=blue-green&hide=issues&custom_title=My%20Github%20Stats!">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=then77&hide=markdown,yaml,json&show_icons=true&theme=blue-green&count_private=true&hide_title=true">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=then77&show_icons=true&theme=blue-green&hide=issues&custom_title=My%20Github%20Stats!">
+  <img height="180em" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=then77&hide=markdown,yaml,json&show_icons=true&theme=blue-green&count_private=true&hide_title=true">
 </p>
