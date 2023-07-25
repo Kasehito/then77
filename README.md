@@ -14,7 +14,7 @@
 <p align="center">You can always contact me to my discord/email:
 <p align="center">
   <a href="https://discord.com/users/962658658070704148">
-    <img src="https://img.shields.io/badge/The%20Realzy%231965-233e96?logo=Discord&logoColor=white"/>
+    <img src="https://img.shields.io/badge/@realzzy-233e96?logo=Discord&logoColor=white"/>
   </a>
   <a href="mailto:hello@therealzzy.xyz">
     <img src="https://img.shields.io/badge/hello@therealzzy.xyz-f54242?logo=Gmail&logoColor=white"/>
