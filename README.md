@@ -13,7 +13,7 @@
 [![Javascript Badge](https://img.shields.io/badge/Javascript-f7df1e?style=flat&logo=javascript&logoColor=black)](https://wikipedia.org/wiki/JavaScript) 
 [![Java Badge](https://img.shields.io/badge/Java-e34f26?style=flat&logo=openjdk&logoColor=white)](https://java.com) 
 [![PHP Badge](https://img.shields.io/badge/PHP-777bb4?style=flat&logo=php&logoColor=white)](https://php.net) 
-[![C# Badge](https://img.shields.io/badge/C%23-512bd4?style=flat&logo=c%23&logoColor=white)](https://php.net)
+[![C# Badge](https://img.shields.io/badge/C%23-512bd4?style=flat&logo=c%23&logoColor=white)]([https://php.net](https://en.wikipedia.org/wiki/C_Sharp_(programming_language)))
 
 ### Web-stack
 [![React.js badge](https://img.shields.io/badge/React.js-20232A?style=flat&logo=react&logoColor=61DAFB)](https://react.dev/)
